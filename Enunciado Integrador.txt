@@ -24,5 +24,4 @@ El módulo que se le solicita debe permitir.
         xxxxxxx     xxxxxxxxxxxxxxxxxxx     xx/xx/xxxx      xx.xx         x
 
         c. Obtener un listado de alumnos ordenado: por el año que cursan y alfabéticamente por apellido y nombre (ambos de menor a mayor).
-        Regla de negocio: el analista le solicita que para resolver esta opción
-        sobrecargue el operador (<) en la clase que corresponda.
+        Regla de negocio: el analista le solicita que para resolver esta opción sobrecargue el operador (<) en la clase que corresponda.
